@@ -33,7 +33,7 @@ Titan-GPT - это многофункциональный Telegram-бот, ко�
 
 ## 🌍 Как найти бота?
 
-- Telegram: [@TitanGPTBot](https://t.me/TitanGPTBot)
+- Telegram: [titangpt\_bot](https://t.me/titangpt_bot)
 - Канал: [@titangpt\_channel](https://t.me/titangpt_channel)
 - Чат: [@titangpt\_chat](https://t.me/titangpt_chat)
 
